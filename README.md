@@ -1,8 +1,8 @@
 # Countdown Timer
 #### [RUS]
 Приложение обратного отчета.  
-Ссылка на приложение: https://merpich.github.io/TodoApp/  
+Ссылка на приложение: https://merpich.github.io/CountedownTimer/
 
 #### [ENG]
-App for create a list of tasks.  
-Link to app: https://merpich.github.io/TodoApp/  
+Countdown Timer.  
+Link to app: https://merpich.github.io/CountedownTimer/
